@@ -695,5 +695,3 @@ The repository contains screenshots documenting the major stages of development:
 - Executive dashboard
 - Detailed sales dashboard
 - Diagnostic dashboard
-
-These screenshots provide evidence of the progression from the original dataset to the final Business Intelligence solution.
